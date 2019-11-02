@@ -2,7 +2,7 @@
 title: Test Book
 description: 
 published: 1
-date: 2019-11-02T08:43:38.346Z
+date: 2019-11-02T08:44:36.618Z
 tags: 
 ---
 
@@ -10,3 +10,14 @@ tags:
 so actually this is the 'index'
 
 [and not the page I called index](/test-book/index)
+
+
+---
+> wqddwqdwq
+{.is-warning}
+
+> ddddd
+{.is-info}
+
+> wargh!
+{.is-danger}
