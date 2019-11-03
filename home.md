@@ -2,11 +2,11 @@
 title: The Status Wiki
 description: 
 published: 1
-date: 2019-11-03T09:50:57.298Z
+date: 2019-11-03T09:51:36.464Z
 tags: 
 ---
 
-# The Status Wiki
+# Home
 
 Welcome to The Status Wiki
 
